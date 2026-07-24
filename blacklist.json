@@ -1,1 +1,6 @@
-
+{
+  "blacklist": [
+    "dreame050",
+    "PlayerName2"
+  ]
+}
